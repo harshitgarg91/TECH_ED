@@ -1,0 +1,6 @@
+{
+  "name": "TECH_ED",
+  "description": "Premium tech journalism and deep-dives into emerging systems, modern engineering, AI architectures and digital growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
